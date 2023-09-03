@@ -1,4 +1,4 @@
-# AbnormalGapMeasure
+# Abnormal Gap Measure
 
 ### Library Installation
 Run: pip3 install pandas numpy matplotlib shapely
